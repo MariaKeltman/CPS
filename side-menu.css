@@ -6,12 +6,12 @@ font-family: 'TT Lakes', sans-serif;
 
 @font-face {
 font-family: 'TT Lakes';
-src: url(/шрифт/TTLakes-Bold.woff) format(woff);
+src: url(/font/TTLakes-Bold.woff) format("woff");
 font-weight: 700;
 }
 @font-face {
 font-family: 'TT Lakes';
-src: url(/шрифт/TTLakes-Medium.woff) format(woff);
+src: url(/font/TTLakes-Medium.woff) format("woff");
 font-weight: 500;
 }
 
@@ -21,8 +21,21 @@ position: fixed;
 left: 0;
 top: 0;
 box-shadow: 10px 0 25px 0 #D3D3D3;
-padding-left: 24px;
+padding: 18px 24px 48px 24px;
+bottom: 0;
+display: flex;
+flex-direction: column;
+
 }
+
+
+
+.wrapper1{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
 
 button {
     border: none;
@@ -37,11 +50,6 @@ button:hover {
     opacity: 0.7;
 }
 
-.header{
-padding: 18px 24px 46px  0;
-}
-
-
 
 .header__menu{
     display: flex;
@@ -55,15 +63,11 @@ padding: 18px 24px 46px  0;
 }
 
 
-.header__container2{
-    display: flex;
-}
-
-.main__item1{
+.nav__item1{
     position:relative;
 }
 
-.main__item1::before{
+.nav__item1::before{
     content: "";
     position: absolute;
     left: -24px;
@@ -78,56 +82,49 @@ padding: 18px 24px 46px  0;
 
 
 
-.main__nav-list{
+.nav__list{
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
 
-.main__item{
+.nav__link{
     text-decoration: none;
     color:#1B1C21;
     font-weight: 500;
     font-size: 16px;
 }
 
-.main__items{
+.nav__items{
     padding-bottom:32px;
 }
 
-.main__item_active{
+.nav__link_active{
     color:#7E7E82;
     text-decoration: none;
 }
 
-
 .footer{
-    padding-top: 120px;
+    margin-top: auto;
+}
+
+.footer__wrapper{
+display: flex;
+flex-direction: column;
+gap: 12px;
 }
 
 .footer__button{
-padding-bottom: 16px;
+display: flex;
+flex-direction: row;
+gap: 16px;
 }
-
-
-.footer__call{
-    padding-right:16px;
-}
-
-
-.footer__chat{
-    padding-right:16px;
-}
-
-
 
 .footer__mail{
 text-decoration: none;
 color: #1B1C21;
-
 }
-
 
 .footer__phone{
     text-decoration: none;
@@ -136,15 +133,19 @@ color: #1B1C21;
     
 }
 
+.footer__contacts{
+    padding-bottom: 40px;
+}
 .footer__lang{
-    padding-top:  40px;
-    padding-bottom: 32px;
+display: flex;
+flex-direction: row;
+gap: 7px;
 }
 
 .lang__link{
     text-decoration: none;
     color: #1B1C21;
-    gap: 7px ;
+    
 }
 
 .lang__link_active{

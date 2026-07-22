@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/side-menu.css">
-    <title>Document</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/side-menu.css">
+<title>Document</title>
 </head>
 <body >
-    <div class="side-menu">
+<div class="side-menu">
+    <div class="wrapper1">
 <header class="header">
-        <div class="header__menu">
+    <div class="header__menu">
             <div class="header__container1">
                 <button class="header__cross" >
                     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -42,20 +43,23 @@
         </div>
 </header>
 <main class="main">
-    <nav class="main__nav">
-        <ul class="main__nav-list">
-            <li class="main__items main__item1"><a href="#" class="main__item_active">Ремонт техники</a></li>
-            <li class="main__items"><a href="#" class="main__item">Услуги и сервисы</a></li>
-            <li class="main__items"><a href="#" class="main__item">Корпоративным клиентам</a></li>
-            <li class="main__items"><a href="#" class="main__item">Продовцам техники</a></li>
-            <li class="main__items"><a href="#" class="main__item">Партнерам</a></li>
-            <li class="main__items"><a href="#" class="main__item">Производителям</a></li>
-            <li class="main__items"><a href="#" class="main__item">Наши сервисные центры</a></li>
-            <li class="main__items"><a href="#" class="main__item">Контакты</a></li>
+    <nav class="main__nav nav">
+        <ul class="nav__list">
+            <li class="nav__items nav__item1"><a href="#" class="nav__link_active">Ремонт техники</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Услуги и сервисы</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Корпоративным клиентам</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Продовцам техники</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Партнерам</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Производителям</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Наши сервисные центры</a></li>
+            <li class="nav__items"><a href="#" class="nav__link">Контакты</a></li>
         </ul>
     </nav>
 </main>
+</div>
+
 <footer class="footer">
+    <div class="footer__wrapper">
     <div class="footer__button">
         <button class="footer__call">
             <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -93,11 +97,14 @@
                 8 800 890 8900
                 </a>
             </div>
+            </div>
+            
         <div class="footer__lang">
-            <a class="lang__link lang__link_active" href="#">RU</a>
-            <a class="lang__link" href="#">EN</a>
-            <a class="lang__link" href="#">CH</a>
+            <button class="lang__link lang__link_active" href="#">RU</button>
+            <button class="lang__link" href="#">EN</button>
+            <button class="lang__link" href="#">CH</button>
         </div>
 </footer>
+
 </div>
 </body>
