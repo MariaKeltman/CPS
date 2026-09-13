@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59993eb9-3222-4c5b-8590-02033ad0f087" name="Изменения" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CPS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/side-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/side-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HJDwZPnlBiRe8ZaIylCDXrdiRx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.CPS JS.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.services.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.try.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/мария/Desktop/studies/CPS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;Отладка JavaScript.CPS.html.executor&quot;: &quot;Run&quot;,
+    &quot;Отладка JavaScript.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Отладка JavaScript.services.html.executor&quot;: &quot;Run&quot;,
+    &quot;Отладка JavaScript.side-menu.html.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="services.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/services.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.services.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.341" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Задача по умолчанию">
+      <changelist id="59993eb9-3222-4c5b-8590-02033ad0f087" name="Изменения" comment="" />
+      <created>1785577516452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785577516452</updated>
+      <workItem from="1785577517465" duration="702000" />
+      <workItem from="1785591300204" duration="65000" />
+      <workItem from="1786184191670" duration="1162000" />
+      <workItem from="1786185366260" duration="3789000" />
+      <workItem from="1786270178174" duration="5439000" />
+      <workItem from="1786277241349" duration="10645000" />
+      <workItem from="1786380739393" duration="8868000" />
+      <workItem from="1786471937678" duration="6319000" />
+      <workItem from="1786529609383" duration="13323000" />
+      <workItem from="1786631693175" duration="6857000" />
+      <workItem from="1786719449255" duration="497000" />
+      <workItem from="1786810228185" duration="52000" />
+      <workItem from="1786810341099" duration="56000" />
+      <workItem from="1786811503353" duration="64000" />
+      <workItem from="1787409390130" duration="8165000" />
+      <workItem from="1787588146563" duration="2464000" />
+      <workItem from="1788100103507" duration="5786000" />
+      <workItem from="1788354413522" duration="5239000" />
+      <workItem from="1788360304023" duration="3762000" />
+      <workItem from="1788447287392" duration="6275000" />
+      <workItem from="1788631767758" duration="1453000" />
+      <workItem from="1788786377224" duration="13452000" />
+      <workItem from="1788867281882" duration="9347000" />
+      <workItem from="1788965486535" duration="6917000" />
+      <workItem from="1789053615423" duration="13399000" />
+      <workItem from="1789123278168" duration="3132000" />
+      <workItem from="1789223672780" duration="20506000" />
+      <workItem from="1789294503167" duration="4472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
