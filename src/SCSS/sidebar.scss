@@ -1,0 +1,154 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  z-index: 6;
+  width: 272px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  padding: 30px 29px 48px 22px;
+  transform: translateX(-100%);
+  background-color: white;
+
+  &--active {
+    transform: translateX(0);
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .header{
+    &__menu {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    &__container1 {
+      display: flex;
+      gap: 16px;
+    }
+
+    &__cross {
+      display: block;
+      cursor: pointer;
+    }
+  }
+
+  .nav {
+    &__list {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+      margin: 0;
+      list-style: none;
+      padding-left: 0 ;
+    }
+  }
+
+  .item {
+    &__link {
+      position: relative;
+      text-decoration: none;
+      color: #1B1C21;
+      font-weight: 500;
+      font-size: 16px;
+    }
+
+    &__link_active {
+      color: #7E7E82;
+
+      &::before {
+        position: absolute;
+        content: "";
+        width: 4px;
+        height: 32px;
+        left: -24px;
+        top: 50%;
+        transform: translateY(-50%);
+        border-radius: 20px;
+        background-color: #41F6D7;
+      }
+    }
+  }
+
+  .sidebar__footer {
+    margin-top: auto;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+    padding-left: 0;
+
+
+    &__wrapper {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    &__button {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      gap: 16px;
+    }
+
+    &__mail{
+      text-decoration: none;
+      color: #1B1C21;
+    }
+
+    &__phone {
+      text-decoration: none;
+      color: #1B1C21;
+      font-weight: 700;
+    }
+
+    &__lang {
+      display: flex;
+      flex-direction: row;
+      gap: 7px;
+    }
+
+    &__link {
+      text-decoration: none;
+      color: #1B1C21;
+    }
+
+    &__link_active {
+      color: #7E7E82;
+    }
+  }
+}
+
+@media(min-width: 768px) and (max-width: 1024px) {
+  .sidebar {
+    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.15);
+    padding-top: 19px;
+  }
+}
+
+@media(min-width: 1120px) {
+
+  .sidebar {
+    transform: translateX(0);
+  }
+
+  .header{
+    &__cross {
+      display: none !important;
+    }
+  }
+
+  .page{
+    margin-left: 320px;
+  }
+}

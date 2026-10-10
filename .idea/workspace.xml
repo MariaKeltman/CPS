@@ -2,18 +2,240 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59993eb9-3222-4c5b-8590-02033ad0f087" name="Изменения" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CPS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/side-menu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/side-menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPS JS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/CPS.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/barnds.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/barnds.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/footer.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/nav.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/page.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/price.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/price.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/repair.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/repair.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/sidebar.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/barnds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/price.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/repair.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/sidebar.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/Текстовый документ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/.idea/font.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-DemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-DemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakes-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-DemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-DemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCompressed-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-DemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-DemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/TTLakesCondensed-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-DemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-DemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-DemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-DemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraLightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakes-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-DemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-DemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-DemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-DemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraLightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCompressed-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-DemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-DemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-DemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-DemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraLightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/TTLakesCondensed-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Новая папка (2)/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.idea/img.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/acer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bosh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/burger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/call.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chat copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lenovo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/samsung.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/settings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sony.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/try.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/viewsonic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/services.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/side-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/side-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +279,11 @@
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/мария/Desktop/studies/CPS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;Отладка JavaScript.CPS.html.executor&quot;: &quot;Run&quot;,
     &quot;Отладка JavaScript.index.html.executor&quot;: &quot;Run&quot;,
     &quot;Отладка JavaScript.services.html.executor&quot;: &quot;Run&quot;,
@@ -117,7 +341,11 @@
       <workItem from="1789053615423" duration="13399000" />
       <workItem from="1789123278168" duration="3132000" />
       <workItem from="1789223672780" duration="20506000" />
-      <workItem from="1789294503167" duration="4472000" />
+      <workItem from="1789294503167" duration="6588000" />
+      <workItem from="1789487211056" duration="10023000" />
+      <workItem from="1791105676278" duration="1026000" />
+      <workItem from="1791189391814" duration="38792000" />
+      <workItem from="1791637605399" duration="1807000" />
     </task>
     <servers />
   </component>
